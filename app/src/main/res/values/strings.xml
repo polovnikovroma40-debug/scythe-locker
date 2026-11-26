@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scythe Locker</string>
+    <string name="enter_pin">Введите PIN</string>
+    <string name="wrong_pin">Неверный PIN</string>
+    <string name="reaper_description">Силуэт смерти с косой</string>
+</resources>
