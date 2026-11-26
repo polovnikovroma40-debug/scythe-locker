@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0A0A0F</color>
+    <color name="bg_dark2">#121018</color>
+    <color name="reaper_grey">#C9CCD1</color>
+    <color name="blood_red">#8B0000</color>
+    <color name="accent_glow">#5E6AD2</color>
+    <color name="text_light">#E8E8EC</color>
+    <color name="text_dim">#8A8A92</color>
+    <color name="pin_dot_empty">#33FFFFFF</color>
+    <color name="pin_dot_filled">#C9CCD1</color>
+    <color name="key_bg">#1A1820</color>
+    <color name="key_bg_pressed">#2A2432</color>
+</resources>
