@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="220dp"
+    android:height="300dp"
+    android:viewportWidth="220"
+    android:viewportHeight="300">
+
+    <!-- Robe / body -->
+    <path
+        android:fillColor="#1C1A22"
+        android:pathData="M110,70
+                          C70,70 55,110 60,150
+                          L45,260
+                          C43,275 55,290 72,290
+                          L148,290
+                          C165,290 177,275 175,260
+                          L160,150
+                          C165,110 150,70 110,70 Z" />
+
+    <!-- Hood opening / shadow face -->
+    <path
+        android:fillColor="#0A0A0F"
+        android:pathData="M110,78
+                          C92,78 82,95 84,112
+                          C86,130 96,140 110,140
+                          C124,140 134,130 136,112
+                          C138,95 128,78 110,78 Z" />
+
+    <!-- Glowing eyes -->
+    <path
+        android:fillColor="#8B0000"
+        android:pathData="M98,108 L106,108 L106,116 L98,116 Z" />
+    <path
+        android:fillColor="#8B0000"
+        android:pathData="M114,108 L122,108 L122,116 L114,116 Z" />
+
+    <!-- Bony hand on scythe -->
+    <path
+        android:fillColor="#C9CCD1"
+        android:pathData="M150,165
+                          L162,150
+                          L168,155
+                          L158,172
+                          L166,168
+                          L170,175
+                          L158,182
+                          L150,178 Z" />
+
+    <!-- Scythe handle -->
+    <path
+        android:fillColor="#5A4632"
+        android:pathData="M160,152 L166,146 L58,36 L52,42 Z" />
+
+    <!-- Scythe blade -->
+    <path
+        android:fillColor="#C9CCD1"
+        android:pathData="M52,42
+                          C30,24 8,22 -6,34
+                          C6,20 32,8 58,18
+                          C66,21 70,30 66,38
+                          L52,42 Z"
+        android:pivotX="52"
+        android:pivotY="42" />
+
+</vector>
